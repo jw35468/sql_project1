@@ -1,1 +1,3 @@
-# sql_project1
+Team 1 Mist 4610 Group Project 1
+
+Team Name:
