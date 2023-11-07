@@ -5,7 +5,7 @@
 2) Jessica Wang [@jw34666](https://github.com/jw34666)
 3) Jayla Porter [@jaycporter](https://github.com/jaycporter)
 
-## Project Description 
+## Problem Description 
 The main task of this project is to build a relational database for the workings of a tennis club. The central entity we are interested in studying is the Members that make up our tennis club. Along with this centeral entity, there are many other entities that operate alongside the Members, such as the Coaching Services, Staff, Maintenance and Repairs, etc. We are interested in modeling the relationships shared between these entities in order to generate sample data and populate the entities with the sample data in order to perform functioning queries on the data so that we may gain valuable insight to the innerworkings of the tennis club and its operations. From these insights, we can plan for the future of the tennis club and see if there are areas that need special attention. 
 
 ## Data Model
@@ -33,4 +33,8 @@ Maintenance and Repairs: Tennis courts and equipment require maintenance and occ
 
 Membership Renewals: Keep track of when memberships are due for renewal, send reminders to members, and manage the renewal process. This entity should include renewal dates and payment history.
 
+## Data Dictionary 
 
+## Queries 
+
+## Database Information 
