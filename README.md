@@ -8,7 +8,7 @@
 ## Project Description 
 
 
-## DataModel
+## Data Model
  I am the owner/operator of a tennis club called "Ace Haven Tennis Club." Our club is located in a suburban area of a medium-sized city, and we offer a variety of tennis-related services and activities to our members. We have both recreational and competitive tennis programs, and we host tournaments  and events throughout the year. Our goal is to provide a welcoming and inclusive environment for tennis enthusiasts of all ages and skill levels.
  
 Our tennis club has a membership system, coaching services, court rentals, and a pro shop where members can purchase tennis equipment and apparel. We also have a cafe and lounge area for socializing and relaxation. We are proud of our vibrant tennis community, and we want to improve the overall experience for our members, coaches, and staff through the implementation of a robust relational database.
