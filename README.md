@@ -6,7 +6,7 @@
 3) Jayla Porter [@jaycporter](https://github.com/jaycporter)
 
 ## Project Description 
-
+The main task of this project is to build a relational database for the workings of a tennis club. The central entity we are interested in studying is the Members that make up our tennis club. Along with this centeral entity, there are many other entities that operate alongside the Members, such as the Coaching Services, Staff, Maintenance and Repairs, etc. We are interested in modeling the relationships shared between these entities in order to generate sample data and populate the entities with the sample data in order to perform functioning queries on the data so that we may gain valuable insight to the innerworkings of the tennis club and its operations. From these insights, we can plan for the future of the tennis club and see if there are areas that need special attention. 
 
 ## Data Model
  I am the owner/operator of a tennis club called "Ace Haven Tennis Club." Our club is located in a suburban area of a medium-sized city, and we offer a variety of tennis-related services and activities to our members. We have both recreational and competitive tennis programs, and we host tournaments  and events throughout the year. Our goal is to provide a welcoming and inclusive environment for tennis enthusiasts of all ages and skill levels.
