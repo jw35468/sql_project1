@@ -38,3 +38,4 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 ## Queries 
 
 ## Database Information 
+Name of database: cs_g7p1
