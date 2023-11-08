@@ -57,6 +57,8 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 
 
 ## Queries 
+<img width="565" alt="image" src="https://github.com/jw35468/sql_project1/assets/148258407/ee1e7025-6142-4d6f-9c0b-b01264c9a3e4">
+
 1) Query 1
    Query 1 (SIMPLE) retrieves the count of members in each membership type category. 
 Managers can use this information to understand the distribution of members across different membership types, which can help in planning marketing strategies and membership offerings.
@@ -72,6 +74,7 @@ Query 2 (COMPLEX) counts the total coaching sessions booked with each coach. Man
 Query 3: (SIMPLE) Shows how much people spend on average at the cafe and in total
 
 Managers can use this data to see how much revenue they are making from other areas of the tennis club and if they should continue to keep the Cafe open. 
+
 
  
 4) Query 4
