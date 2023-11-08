@@ -59,62 +59,62 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 ## Queries 
 <img width="565" alt="image" src="https://github.com/jw35468/sql_project1/assets/148258407/ee1e7025-6142-4d6f-9c0b-b01264c9a3e4">
 
-1) Query 1
-   Query 1 (SIMPLE) retrieves the count of members in each membership type category. 
+1) 
+Query 1 (SIMPLE) retrieves the count of members in each membership type category. 
 Managers can use this information to understand the distribution of members across different membership types, which can help in planning marketing strategies and membership offerings.
 <img width="796" alt="Screenshot 2023-11-07 200252" src="https://github.com/jw35468/sql_project1/assets/148258407/3259a95e-ddd6-434d-9649-936b33d204b5">
 
 
-2) Query 2
+2) 
 Query 2 (COMPLEX) counts the total coaching sessions booked with each coach. Managers can assess the popularity and workload of coaches to allocate resources effectively and optimize scheduling. 
 <img width="808" alt="Screenshot 2023-11-07 195248" src="https://github.com/jw35468/sql_project1/assets/148258407/da4b0b0e-549b-456a-9044-6b55acacfabe">
 
 
-3) Query 3
-Query 3: (SIMPLE) Shows how much people spend on average at the cafe and in total.
+3) 
+Query 3 (SIMPLE) Shows how much people spend on average at the cafe and in total.
 Managers can use this data to see how much revenue they are making from other areas of the tennis club and if they should continue to keep the Cafe open.
 
 ![Screenshot 2023-11-07 at 9 55 33 PM](https://github.com/jw35468/sql_project1/assets/145144734/efce8b29-5150-443c-9a92-5b3ac186f367)
 
 
  
-4) Query 4
- Query 4: (SIMPLE) Shows which coach has “Saturday” in their availability 
+4) 
+ Query 4 (SIMPLE) Shows which coach has “Saturday” in their availability 
 As saturday is likely the most busy day of the week, managers can use this information to efficiently schedule coaches and can see which classes to offer on weekends and who they may need to hire (ie a beginner tennis coach for Saturdays.)
 ![Screenshot 2023-11-07 at 10 24 05 PM](https://github.com/jw35468/sql_project1/assets/145144734/23670c87-ae8b-4743-b1fd-2e8b9f69621c)
 
 
-5) Query 5
+5) 
 Query 5 (COMPLEX) lists the coaches who specialize in "Pro Tennis," display the number of coaching sessions they conducted in 2023, and order the results in descending order of coaching sessions. Managers can use this information to assess the popularity and performance of coaches in that specialization.
 <img width="806" alt="Screenshot 2023-11-07 202250" src="https://github.com/jw35468/sql_project1/assets/148258407/503faa11-9a18-40de-a194-abc3d39902f8">
 
    
-6) Query 6
+6) 
 Query 6 (COMPLEX) retrieves information about the Proshop purchases made by members who have also enrolled in tournaments.
 This query helps managers identify members who are both Proshop customers and tournament participants, allowing them to analyze the intersection of these two aspects of membership.
 This information can be valuable for marketing and sales strategies, as managers can target these members with promotions related to both Proshop products and tournament participation.
 <img width="809" alt="Screenshot 2023-11-07 203601" src="https://github.com/jw35468/sql_project1/assets/148258407/0de1be82-7fbe-4f62-b159-890e777c8ec4">
 
    
-7) Query 7
+7) 
 Query 7 (COMPLEX/RECURSIVE) creates a list of employees and their associated managers, allowing you to see the reporting structure within the organization.
 This information can be valuable for understanding how employees are organized, who their supervisors are, and how the managerial hierarchy is structured within the tennis club.
 <img width="809" alt="Screenshot 2023-11-07 205750" src="https://github.com/jw35468/sql_project1/assets/148258407/5042082f-6fab-4eed-b9ff-b431fb40c126">
 
    
-8) Query 8
+8) 
 Query 8(COMPLEX) retrieves a list of tournaments and counts the number of participants registered for each tournament in descending order.
 Query 8 provides valuable insights into the performance and success of different tournaments, enabling managers to make informed decisions related to resource allocation, marketing, financial planning, member engagement, and competitiveness in the tennis club industry.
 <img width="811" alt="Screenshot 2023-11-07 211827" src="https://github.com/jw35468/sql_project1/assets/148258407/0be11246-2e83-4ca7-91d0-5e14f03118f9">
 
   
-9) Query 9
+9)
 Query 9 (COMPLEX) calculates the total sales made by each employee in the Proshop and orders the results by sales in descending order.
 This information is valuable for managers to assess the performance of Proshop employees in terms of sales and make informed decisions regarding staffing and performance evaluations.
 <img width="809" alt="Screenshot 2023-11-07 212359" src="https://github.com/jw35468/sql_project1/assets/148258407/ae77da2e-3f5d-488d-aaba-8cb0c8318b73">
 
    
-10) Query 10
+10)
  Query 10(SIMPLE) lists the tournaments with registration fees greater than $50.
 This query helps managers make informed decisions about tournament pricing, resource allocation, and revenue generation within the tennis club.
 <img width="805" alt="Screenshot 2023-11-07 214300" src="https://github.com/jw35468/sql_project1/assets/148258407/f9c5c82f-706d-4d14-8590-5059ee1f24d0">
