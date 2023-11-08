@@ -32,8 +32,17 @@ Financial Records: We need to manage financial records, including membership fee
 Maintenance and Repairs: Tennis courts and equipment require maintenance and occasional repairs. Create an entity to track maintenance schedules, repair requests, costs, and the status of maintenance tasks.
 
 Membership Renewals: Keep track of when memberships are due for renewal, send reminders to members, and manage the renewal process. This entity should include renewal dates and payment history.
+![SQLFINAL](https://github.com/jw35468/sql_project1/assets/149987218/fb26f0b6-8fb8-4e48-981d-a14c7a5cc19e)
+
 
 ## Data Dictionary 
+
+<img width="679" alt="Screen Shot 2023-11-07 at 9 47 23 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/e092e34e-0fa1-4147-8326-ebf20f7049ad">
+<img width="669" alt="Screen Shot 2023-11-07 at 9 47 49 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/900df7e8-13d7-4d77-b13a-82f669b6e3f5">
+<img width="671" alt="Screen Shot 2023-11-07 at 9 47 55 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/6d9e4d02-464e-43fe-82c6-6e7816dbaf78">
+<img width="668" alt="Screen Shot 2023-11-07 at 9 48 01 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/133e0b8a-1c62-478d-837f-9fb8cdc16c84">
+
+
 
 ## Queries 
 1) Query 1
