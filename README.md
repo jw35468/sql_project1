@@ -105,4 +105,5 @@ Query 7 (COMPLEX/RECURSIVE) creates a list of employees and their associated man
 
 ## Database Information 
 Name of database: cs_g7p1
+
 Additional information: Each query listed above is marked in the database using stored procedures that can be called using the following format: CALL TP_Q1();
