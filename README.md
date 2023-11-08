@@ -48,10 +48,12 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 1) Query 1
    Query 1 (SIMPLE) retrieves the count of members in each membership type category. 
 Managers can use this information to understand the distribution of members across different membership types, which can help in planning marketing strategies and membership offerings.
+<img width="796" alt="Screenshot 2023-11-07 200252" src="https://github.com/jw35468/sql_project1/assets/148258407/3259a95e-ddd6-434d-9649-936b33d204b5">
 
 
 3) Query 2
 Query 2 (COMPLEX) counts the total coaching sessions booked with each coach. Managers can assess the popularity and workload of coaches to allocate resources effectively and optimize scheduling. 
+<img width="808" alt="Screenshot 2023-11-07 195248" src="https://github.com/jw35468/sql_project1/assets/148258407/da4b0b0e-549b-456a-9044-6b55acacfabe">
 
 
 4) Query 3
