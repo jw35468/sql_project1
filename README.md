@@ -97,7 +97,7 @@ Query 7 (COMPLEX/RECURSIVE) creates a list of employees and their associated man
  Query 9 (COMPLEX) calculates the total sales made by each employee in the Proshop and orders the results by sales in descending order. This information is valuable for managers to assess the performance of Proshop employees in terms of sales and make informed decisions regarding staffing and performance evaluations.
    
 12) Query 10
- Query 10(Simple) lists the tournaments with registration fees greater than $50. This query helps managers make informed decisions about tournament pricing, resource allocation, and revenue generation within the tennis club.
+ Query 10(SIMPLE) lists the tournaments with registration fees greater than $50. This query helps managers make informed decisions about tournament pricing, resource allocation, and revenue generation within the tennis club.
 
 
 
@@ -105,3 +105,4 @@ Query 7 (COMPLEX/RECURSIVE) creates a list of employees and their associated man
 
 ## Database Information 
 Name of database: cs_g7p1
+Additional information: Each query listed above is marked in the database using stored procedures that can be called using the following format: CALL TP_Q1();
