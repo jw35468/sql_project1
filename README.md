@@ -39,10 +39,7 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 
 
 
-<img width="679" alt="Screen Shot 2023-11-07 at 9 47 23 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/e092e34e-0fa1-4147-8326-ebf20f7049ad">
-<img width="669" alt="Screen Shot 2023-11-07 at 9 47 49 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/900df7e8-13d7-4d77-b13a-82f669b6e3f5">
-<img width="671" alt="Screen Shot 2023-11-07 at 9 47 55 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/6d9e4d02-464e-43fe-82c6-6e7816dbaf78">
-<img width="668" alt="Screen Shot 2023-11-07 at 9 48 01 PM" src="https://github.com/jw35468/sql_project1/assets/149987218/133e0b8a-1c62-478d-837f-9fb8cdc16c84">
+
 
 ![Screenshot 2023-11-07 at 10 19 42 PM](https://github.com/jw35468/sql_project1/assets/145144734/2db9e80a-ade3-4642-ae5b-5bca615e39d1)
 
