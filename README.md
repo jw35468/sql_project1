@@ -80,6 +80,7 @@ As saturday is likely the most busy day of the week, managers can use this infor
 
 5) Query 5
 Query 5 (COMPLEX) lists the coaches who specialize in "Pro Tennis," display the number of coaching sessions they conducted in 2023, and order the results in descending order of coaching sessions. Managers can use this information to assess the popularity and performance of coaches in that specialization.
+<img width="806" alt="Screenshot 2023-11-07 202250" src="https://github.com/jw35468/sql_project1/assets/148258407/503faa11-9a18-40de-a194-abc3d39902f8">
 
    
 6) Query 6
