@@ -41,7 +41,7 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 
 
 
-![Screenshot 2023-11-07 at 10 19 42 PM](https://github.com/jw35468/sql_project1/assets/145144734/2db9e80a-ade3-4642-ae5b-5bca615e39d1)
+
 
 
 ## Queries 
