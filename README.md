@@ -37,6 +37,18 @@ Membership Renewals: Keep track of when memberships are due for renewal, send re
 
 ## Data Dictionary 
 
+![Screenshot 2023-11-07 at 11 07 08 PM](https://github.com/jw35468/sql_project1/assets/145144734/7687a333-29bf-45d2-a599-345f2350216e)
+![Screenshot 2023-11-07 at 11 07 22 PM](https://github.com/jw35468/sql_project1/assets/145144734/c29c0e5e-a077-44df-a0f6-42d47e444aa7)
+![Screenshot 2023-11-07 at 11 07 29 PM](https://github.com/jw35468/sql_project1/assets/145144734/6c992db9-0c4f-41cd-984b-8fc3d9ad748b)
+![Screenshot 2023-11-07 at 11 07 59 PM](https://github.com/jw35468/sql_project1/assets/145144734/d4ca6430-b4af-4d18-a15b-05519121dc69)
+![Screenshot 2023-11-07 at 11 08 11 PM](https://github.com/jw35468/sql_project1/assets/145144734/bf9c7bbc-4aca-4304-a8a2-9a92e5ed85cd)
+![Screenshot 2023-11-07 at 11 08 20 PM](https://github.com/jw35468/sql_project1/assets/145144734/b5f43752-2f03-4c57-af68-6893f2b49af9)
+![Screenshot 2023-11-07 at 11 08 26 PM](https://github.com/jw35468/sql_project1/assets/145144734/47bf2c8a-91eb-432a-bb40-ea53d9ca0fd8)
+![Screenshot 2023-11-07 at 11 08 32 PM](https://github.com/jw35468/sql_project1/assets/145144734/42ce1dc0-d515-4c9d-9233-286563fd3760)
+![Screenshot 2023-11-07 at 11 08 39 PM](https://github.com/jw35468/sql_project1/assets/145144734/b33b817b-7aa7-4cef-a36d-c57c2367a02e)
+![Screenshot 2023-11-07 at 11 08 45 PM](https://github.com/jw35468/sql_project1/assets/145144734/752f2fca-cd48-426a-93dc-3a006f849f6a)
+![Screenshot 2023-11-07 at 11 08 53 PM](https://github.com/jw35468/sql_project1/assets/145144734/36706b94-ae17-4105-bb1e-791a4807ef9d)
+![Screenshot 2023-11-07 at 11 09 01 PM](https://github.com/jw35468/sql_project1/assets/145144734/f42606ef-1221-4371-b7ad-b786d07fe6a0)
 
 
 
