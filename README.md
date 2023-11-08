@@ -86,19 +86,27 @@ Query 5 (COMPLEX) lists the coaches who specialize in "Pro Tennis," display the 
 6) Query 6
 Query 6 (COMPLEX) retrieves information about the Proshop purchases made by members who have also enrolled in tournaments. This query helps managers identify members who are both Proshop customers and tournament participants, allowing them to analyze the intersection of these two aspects of membership.
 This information can be valuable for marketing and sales strategies, as managers can target these members with promotions related to both Proshop products and tournament participation.
+<img width="809" alt="Screenshot 2023-11-07 203601" src="https://github.com/jw35468/sql_project1/assets/148258407/0de1be82-7fbe-4f62-b159-890e777c8ec4">
+
    
-7) Query 7
+8) Query 7
 Query 7 (COMPLEX/RECURSIVE) creates a list of employees and their associated managers, allowing you to see the reporting structure within the organization.This information can be valuable for understanding how employees are organized, who their supervisors are, and how the managerial hierarchy is structured within the tennis club.
+<img width="809" alt="Screenshot 2023-11-07 205750" src="https://github.com/jw35468/sql_project1/assets/148258407/5042082f-6fab-4eed-b9ff-b431fb40c126">
+
    
-8) Query 8
+10) Query 8
  Query 8(COMPLEX) retrieves a list of tournaments and counts the number of participants registered for each tournament in descending order. Query 8 provides valuable insights into the performance and success of different tournaments, enabling managers to make informed decisions related to resource allocation, marketing, financial planning, member engagement, and competitiveness in the tennis club industry.
+<img width="811" alt="Screenshot 2023-11-07 211827" src="https://github.com/jw35468/sql_project1/assets/148258407/0be11246-2e83-4ca7-91d0-5e14f03118f9">
 
   
-9) Query 9
+11) Query 9
  Query 9 (COMPLEX) calculates the total sales made by each employee in the Proshop and orders the results by sales in descending order. This information is valuable for managers to assess the performance of Proshop employees in terms of sales and make informed decisions regarding staffing and performance evaluations.
+<img width="809" alt="Screenshot 2023-11-07 212359" src="https://github.com/jw35468/sql_project1/assets/148258407/ae77da2e-3f5d-488d-aaba-8cb0c8318b73">
+
    
-10) Query 10
+13) Query 10
  Query 10(SIMPLE) lists the tournaments with registration fees greater than $50. This query helps managers make informed decisions about tournament pricing, resource allocation, and revenue generation within the tennis club.
+<img width="805" alt="Screenshot 2023-11-07 214300" src="https://github.com/jw35468/sql_project1/assets/148258407/f9c5c82f-706d-4d14-8590-5059ee1f24d0">
 
 
 
